@@ -1,11 +1,11 @@
 <template>
     <div class="mt-5">
-        <b-button variant="success">Texto</b-button>
+        <!-- <b-button variant="success">Texto</b-button>
         <b-button variant="danger">Texto</b-button>
         <b-button variant="primary">Texto</b-button>
         <b-button variant="warning">Texto</b-button>
         <b-button variant="info">Texto</b-button>
-        <b-button variant="dark">Texto</b-button>
+        <b-button variant="dark">Texto</b-button> -->
 
         <b-row class="mt-5">
             <b-col cols="12" md="4">
